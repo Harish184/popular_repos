@@ -2,7 +2,6 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:popular_repos/repoDetails.dart';
 
 class repoList extends StatefulWidget {
   const repoList({Key? key}) : super(key: key);
